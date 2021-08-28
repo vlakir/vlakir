@@ -1,5 +1,2 @@
-# ✋
 
-# Profile views
-
-![Profile views](https://github.com/vlakir)
+![](https://komarev.com/ghpvc/?username=vlakir)
