@@ -16,7 +16,7 @@ The current versions of my projects are here: https://gitflic.ru/user/vlakir
 
 The sanctions can be soften or lifted if GitHub changes its hostile policy and makes a public apology to all Russian developers.
 
-Vladimir Kirievsky, 2022/04/19
+Vladimir Kirievskiy, 2022/04/19
 
 
 
